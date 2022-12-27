@@ -1,9 +1,10 @@
+<!---
 - 👋 Hi, I’m @moe-men
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-
+--->
 
 
 <h1 align="center">Hi 👋, Moemen</h1>
@@ -15,7 +16,7 @@
 </p>
 
 <p align="center">
-🔭 Working on: Data Engineer <a href="https://www.raylytic.com/en/"> @RAYLYTIC gmbh </a> | Contributer jupyter-naas <a href="https://github.com/jupyter-naas/awesome-notebooks"> at @NAAS
+🔭 Working on: Data Engineer <a href="https://www.raylytic.com/en/"> @RAYLYTIC </a> | Contributer jupyter-naas <a href="https://github.com/jupyter-naas/awesome-notebooks"> @NAAS
 </p> 
 
 <p align="center">
