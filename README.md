@@ -12,11 +12,11 @@
 
 
 <p align="center">
-    🎯 Computer science Msc <a href="https://www.uni-passau.de/en/">@Passau university</a> | ICT Engineer <a href="http://www.supcom.mincom.tn/Fr/accueil_46_3"> @SUPCOM</a> | Bachelor's degree in Mathematics & Physics <a href="https://ipeiem.rnu.tn/">@IPEIT </a>
+    🎯 Computer science Msc <a href="https://www.uni-passau.de/en/">@Passau university</a> | ICT Engineer <a href="http://www.supcom.mincom.tn/Fr/accueil_46_3"> @SUPCOM</a> | Bachelor's degree in Mathematics & Physics <a href="http://www.ipeit.rnu.tn/en">@IPEIT </a>
 </p>
 
 <p align="center">
-🔭 Working on: Data Engineer <a href="https://www.raylytic.com/en/"> @RAYLYTIC </a> | Contributer jupyter-naas <a href="https://github.com/jupyter-naas/awesome-notebooks"> @NAAS
+🔭 Working on: Working Student at <a href="https://www.raylytic.com/en/"> @RAYLYTIC </a> | Data Engineer at <a href="https://www.raylytic.com/en/"> @RAYLYTIC </a> | Contributer in jupyter-naas at <a href="https://github.com/jupyter-naas/awesome-notebooks"> @NAAS
 </p> 
 
 <p align="center">
