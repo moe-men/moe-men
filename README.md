@@ -12,7 +12,7 @@
 
 
 <p align="center">
-    🎯 Computer science Msc <a href="https://www.uni-passau.de/en/">@Passau university</a> | ICT Engineer <a href="http://www.supcom.mincom.tn/Fr/accueil_46_3"> @SUPCOM</a> | Bachelor's degree in Mathematics & Physics <a href="https://ipeiem.rnu.tn/">@IPEIEM </a>
+    🎯 Computer science Msc <a href="https://www.uni-passau.de/en/">@Passau university</a> | ICT Engineer <a href="http://www.supcom.mincom.tn/Fr/accueil_46_3"> @SUPCOM</a> | Bachelor's degree in Mathematics & Physics <a href="https://ipeiem.rnu.tn/">@IPEIT </a>
 </p>
 
 <p align="center">
